@@ -2,6 +2,7 @@
 <ul>
   <li>안수정</li>
   <li>E-mail : annedec05@naver.com</li>
+  <li>Github : <a href="https://github.com/annedec05/pf">https://github.com/annedec05/pf</a></li>
 </ul>
 
 # 경력
@@ -35,6 +36,15 @@
 [아이모토]<br>
 그누보드, 영카트 등의 독립쇼핑몰 커스터마이징, 플러그인 개발 및 유지보수<br>
 
+<h3><a href="http://www.jjangjuk.com" target="_blank">짱죽</a></h3>
+<ul>
+  <li>디블리셔 1명, 개발자 1명과 협업</li>
+  <li>PHP, MySQL, javascript, jquery, ajax</li>
+  <li>영카트 솔루션 기반으로 제작</li>
+  <li>이유식 전문 판매 사이트</li>
+  <li>이유식 메뉴관리, 지정요일 배송관리, 상품구성 등 관리기능 구성</li>
+</ul>
+
 <h3><a href="https://transauction.co.kr" target="_blank">트랜스옥션</a></h3>
 <ul>
   <li>디블리셔 1명과 협업</li>
@@ -60,7 +70,7 @@
   <li>PHP, MySQL, javascript, jquery, ajax</li>
   <li>그누보드 솔루션 기반으로 제작</li>
   <li>전국의 석탄발전소 현황을 공개하고 공유하는 웹</li>
-  <li>다음 지도 api를 이용하여 관리자가 입력하는 전국의 석탄발전소 데이터를 연도별로 ajax 불러오고 엑셀다운 기능 적용</li>
+  <li>다음 지도 api를 이용하여 관리자가 입력하는 전국의 석탄발전소 데이터를 연도별로 ajax를 이용해 불러오고 엑셀다운 기능 적용</li>
 </ul>
 
 <h3><a href="http://k-illustrationfair.com" target="_blank">k-일러스트레이션페어</a></h3>
