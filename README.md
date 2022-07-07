@@ -11,7 +11,7 @@
     <a href="https://www.ilogin.co.kr" target="_blank">아이모토</a>
     <ul>
       <li>프론트엔드/백엔드 웹/서버 개발자</li>
-      <li>2018.10 ~ 2022.07</li>
+      <li>2018.10 ~ 2022.07 (3년 9개월)</li>
     </ul>
   </li>
 </ul>
