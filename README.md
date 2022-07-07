@@ -2,6 +2,7 @@
 <ul>
   <li>안수정</li>
   <li>E-mail : annedec05@naver.com</li>
+  <li>연성대학교 컴퓨터 소프트웨어학과 졸업</li>
   <li>Github : <a href="https://github.com/annedec05/pf">https://github.com/annedec05/pf</a></li>
 </ul>
 
