@@ -85,28 +85,6 @@
   <li>데이터 탭에서는 검색 결과에 맞는 엑셀다운 기능 적용</li>
 </ul>
 
-<h3>이재명만들기</h3>
-<ul>
-  <li>디자이너 1명, 퍼블리셔 1명, 개발자 1명과 협업</li>
-  <li>PHP, MySQL, javascript, jquery, ajax</li>
-  <li>그누보드 솔루션 기반으로 제작</li>
-  <li>해당 당후보를 응원하기 위한 포토카드를 생성 웹</li>
-  <li>회원이 이미지와 응원문구를 기입하여 이미지 등록하게 되면 관리자 승인 후 리스트에 노출</li>
-  <li>리스트에서 이미지 클릭시 해당 포토카드 다운로드, sns로 공유기능을 가진 popup의 형태로 나타남</li>
-  <li>포토카드 다운로드시 해당 포토카드의 url 정보를 가지고 있는 qr 코드를 포함한 형태로 생성</li>
-</ul>
-
-<h3><a href="http://femiparty.org" target="_blank">페미니즘당</a></h3>
-<ul>
-  <li>디자이너 1명, 퍼블리셔 1명과 협업</li>
-  <li>PHP, MySQL, javascript, jquery, ajax</li>
-  <li>그누보드 솔루션 기반으로 제작</li>
-  <li>정당 소개 및 당원가입 신청하는 웹</li>
-  <li>당원으로 회원가입시 서명을 필수로 받아야만 오프라인에서도 당원으로 인정되어<br>
-  canvas를 활용, 서명 받은 내용을 image 형태로 변환하여 db에 저장</li>
-  <li>관리자는 해당 회원가입 정보를 pdf 변환, 출력가능하도록 함</li>
-</ul>
-
 <h3><a href="http://www.siwse.com" target="_blank">서울국제주류박람회</a></h3>
 <ul>
   <li>디자이너 1명, 퍼블리셔 1명과 협업</li>
